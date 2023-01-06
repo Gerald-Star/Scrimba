@@ -1,0 +1,17 @@
+
+/* Genesis */
+
+.genesis_gallery {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    gap: 5px;
+    margin: 5px;
+}
+
+img {
+    width: 70%;
+    height: 250px;
+
+    
+}
